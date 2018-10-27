@@ -6,8 +6,8 @@ Paradigms and models
 Agile Cleanroom Incremental Prototyping Spiral V model Waterfall
 Methodologies and frameworks
 ASD DevOps DAD DSDM FDD IID Kanban Lean SD LeSS MDD MSF PSP RAD RUP SAFe Scrum SEMAT TSP UP XP
-Supporting disciplines
-Configuration management Documentation Software quality assurance (SQA) Project management User experience
+ssss
+onfiguration management Documentation Software quality assurance (SQA) Project management User experience
 Practices
 ATDD BDD CCO CI CD DDD PP Stand-up TDD
 Tools
