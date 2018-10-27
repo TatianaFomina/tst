@@ -1,0 +1,25 @@
+
+Software development
+Core activities
+Processes Requirements Design Engineering Construction Testing Debugging Deployment Maintenance
+Paradigms and models
+Agile Cleanroom Incremental Prototyping Spiral V model Waterfall
+Methodologies and frameworks
+ASD DevOps DAD DSDM FDD IID Kanban Lean SD LeSS MDD MSF PSP RAD RUP SAFe Scrum SEMAT TSP UP XP
+Supporting disciplines
+Configuration management Documentation Software quality assurance (SQA) Project management User experience
+Practices
+ATDD BDD CCO CI CD DDD PP Stand-up TDD
+Tools
+Compiler Debugger Profiler GUI designer Modeling IDE Build automation Release automation Infrastructure as Code Testing
+Standards and Bodies of Knowledge
+BABOK CMMI IEEE standards ISO 9001 ISO/IEC standards PMBOK SWEBOK ITIL
+Glossaries
+Artificial intelligence Computer science Electrical and electronics engineering
+vte
+Domain-driven design (DDD) is an approach to software development for complex needs by connecting the implementation to an evolving model.[1] The premise of domain-driven design is the following:
+
+placing the project's primary focus on the core domain and domain logic;
+basing complex designs on a model of the domain;
+initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems.
+The term was coined by Eric Evans in his book of the same title.[2]
